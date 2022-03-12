@@ -4,7 +4,7 @@
 ## Jogos em JS
 
 <p>Repositorio voltado a modelos de Jogos criados em JS.</p>
-<p>* Planet Defense <a href="https://planetdefensejs-tm.netlify.app/" target="_blank"> Link </a></p>
+<p>- Planet Defense <a href="https://planetdefensejs-tm.netlify.app/" target="_blank"> Link </a></p>
  
  
 ## Tecnologia 
