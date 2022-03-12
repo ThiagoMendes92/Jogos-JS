@@ -39,7 +39,8 @@ Aqui estão as tecnologias usadas neste projeto.
 
 ## Autor
  
-* **Thiago Mendes**: @ThiagoMendes92 (https://github.com/ThiagoMendes92)
+* **Thiago Mendes**: @ThiagoMendes92 (https://github.com/ThiagoMendes92) (Repositorio)
+* **Marc López Ávila**: Planet Defense (https://codepen.io/Loopez10)
  
  
 Por favor, siga meu github e junte-se a nós!
